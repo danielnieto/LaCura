@@ -15,3 +15,11 @@ You MUST stop them by sending your best cell troopers to fight'em back!
 Just wait until you have enough ADN to create a soldier, you can choose which one will be, and do not release cells like if you're insane! think about your next move, i'll give you a hint, the smallest and cheapest cells are inmune to enemy's projectiles, but they are very weak against "normal" viruses...
 
 So, I Hope you get better! and have fun!
+
+#Take a look at these screenshots!
+
+![image1](https://github.com/danielnieto/LaCura/raw/master/screenshots/screenshot1.JPG)
+
+![image2](https://github.com/danielnieto/LaCura/raw/master/screenshots/screenshot2.JPG)
+
+![image3](https://github.com/danielnieto/LaCura/raw/master/screenshots/screenshot3.JPG)
